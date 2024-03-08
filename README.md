@@ -15,8 +15,10 @@ http://minnberg.se/page/resume/
 
 
 
-
 ## Videos by me
+
+### C++ and the 6502 
+[![C++ and the 6502](https://img.youtube.com/vi/ZSwl4UEBFss/0.jpg)](https://www.youtube.com/watch?v=ZSwl4UEBFss)
 
 ### R-Toy Presentation
 [![R-Toy presentation](https://img.youtube.com/vi/vptBSuHF7q0/0.jpg)](https://www.youtube.com/watch?v=vptBSuHF7q0)

@@ -17,6 +17,9 @@ http://minnberg.se/page/resume/
 
 ## Videos by me
 
+### Web Assembly
+[![C++ and the 6502](https://img.youtube.com/vi/M6fYblORvqU/0.jpg)](https://www.youtube.com/watch?v=M6fYblORvqU)
+
 ### C++ and the 6502 
 [![C++ and the 6502](https://img.youtube.com/vi/ZSwl4UEBFss/0.jpg)](https://www.youtube.com/watch?v=ZSwl4UEBFss)
 
